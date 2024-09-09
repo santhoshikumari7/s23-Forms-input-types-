@@ -1,0 +1,25 @@
+h1{
+    color: chartreuse;
+    position: relative;
+    left: 570px;
+}
+
+form{
+    background-color: crimson;
+    border: 2px solid darkgreen;
+    display: inline-block;
+    position: relative;
+    left: 500px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    font-size: 1rem;
+
+}
+form div{
+margin: 10px;
+}
+.innerLabel{
+    width: auto;
+}
